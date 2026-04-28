@@ -1,0 +1,10 @@
+{
+  "public": {
+    "id": "public",
+    "type": "public",
+    "name": "Общий чат",
+    "participants": [],
+    "messages": [],
+    "createdAt": "2026-04-28T17:52:37.174Z"
+  }
+}
